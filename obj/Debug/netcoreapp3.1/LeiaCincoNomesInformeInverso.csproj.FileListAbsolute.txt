@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.dll
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/bin/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.dll
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/LeiaCincoNomesInformeInverso/obj/Debug/netcoreapp3.1/LeiaCincoNomesInformeInverso.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\bin\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\LeiaCincoNomesInformeInverso\obj\Debug\netcoreapp3.1\LeiaCincoNomesInformeInverso.genruntimeconfig.cache
